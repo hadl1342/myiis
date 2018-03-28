@@ -4,7 +4,7 @@ maintainer_email 'you@example.com'
 license 'all_rights'
 description 'Installs/Configures myiis'
 long_description 'Installs/Configures myiis'
-version '0.2.0'
+version '0.2.1'
 
 # test
 # The `issues_url` points to the location where issues for this cookbook are
